@@ -82,14 +82,14 @@
                 padding-bottom: 1rem;
             }
             .skills-title {
-                /* font-size: 0.75rem; */
+                font-size: 0.75rem;
                 text-align:  center;
                 padding: 1rem 0.5rem;
                 color: white;
                 text-transform: uppercase;
             }
             .skill-name{
-                /* font-size: 0.65rem; */
+                font-size: 0.65rem;
                 font-weight: 0.65rem;
                 text-align: left;
                 padding-bottom: 0.5rem;
